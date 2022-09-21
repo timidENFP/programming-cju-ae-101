@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\User\Documents\GitHub\programming-cju-ae-101\2end_week\ex-4\ex-4\소스.cpp(15,8): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  ex-4.vcxproj -> C:\Users\User\Documents\GitHub\programming-cju-ae-101\2end_week\ex-4\x64\Debug\ex-4.exe
