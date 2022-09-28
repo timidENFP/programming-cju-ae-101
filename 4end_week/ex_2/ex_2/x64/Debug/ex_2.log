@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\User\Desktop\ex_2\ex_2\소스.cpp(12,15): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+C:\Users\User\Desktop\ex_2\ex_2\소스.cpp(27,15): warning C4804: '<': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  ex_2.vcxproj -> C:\Users\User\Desktop\ex_2\x64\Debug\ex_2.exe
