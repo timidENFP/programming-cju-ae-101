@@ -1,0 +1,13 @@
+﻿'4week 1ex.exe'(Win32): 'C:\Users\User\Desktop\4week 1ex\x64\Debug\4week 1ex.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\ntdll.dll'을(를) 로드했습니다. 
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\kernel32.dll'을(를) 로드했습니다. 
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\KernelBase.dll'을(를) 로드했습니다. 
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\vcruntime140d.dll'을(를) 로드했습니다. 
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\ucrtbased.dll'을(를) 로드했습니다. 
+0x4118 스레드가 종료되었습니다(코드: 0 (0x0)).
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\kernel.appcore.dll'을(를) 로드했습니다. 
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\msvcrt.dll'을(를) 로드했습니다. 
+'4week 1ex.exe'(Win32): 'C:\Windows\System32\rpcrt4.dll'을(를) 로드했습니다. 
+0x3314 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x608 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[17504] 4week 1ex.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
