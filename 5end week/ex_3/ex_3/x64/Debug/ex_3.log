@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\이영우\source\repos\ex_3\ex_3\소스.cpp(33,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\이영우\source\repos\ex_3\ex_3\소스.cpp(33,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\이영우\source\repos\ex_3\ex_3\소스.cpp(33,10): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\이영우\source\repos\ex_3\ex_3\소스.cpp(33,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\이영우\source\repos\ex_3\ex_3\소스.cpp(31,18): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+  ex_3.vcxproj -> C:\Users\이영우\source\repos\ex_3\x64\Debug\ex_3.exe
