@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\User\Documents\GitHub\8end_week\ex-1\ex-1\소스.cpp(7,2): error C2146: 구문 오류: ';'이(가) 'strcpy' 식별자 앞에 없습니다.
+C:\Users\User\Documents\GitHub\8end_week\ex-1\ex-1\소스.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\User\Documents\GitHub\8end_week\ex-1\ex-1\소스.cpp(10,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\User\Documents\GitHub\8end_week\ex-1\ex-1\소스.cpp(7,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\8end_week\ex-1\ex-1\소스.cpp(8,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Documents\GitHub\8end_week\ex-1\ex-1\소스.cpp(9,2): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
