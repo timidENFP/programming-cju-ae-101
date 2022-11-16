@@ -1,0 +1,14 @@
+﻿  소스.cpp
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(10,17): warning C4273: '_errno': dll 연결이 일치하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,27): message : '_errno'의 이전 정의를 참조하십시오.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(23,1): error C2704: 'avg': __va_start 내장 함수는 varargs에서만 사용할 수 있습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(39,10): warning C4477: 'printf' : 서식 문자열 '%8.1lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'int'입니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(39,10): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 7의 형식이 'double'입니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(40,78): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(40,78): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 7개 필요하지만 8개가 제공되었습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(59,16): warning C4476: 'fscanf_s' : 서식 지정자에 알 수 없는 형식 필드 문자 ' '이(가) 있습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(60,4): warning C4474: 'fscanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(60,4): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 5개가 제공되었습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(61,62): error C2660: 'avg': 함수는 4개의 인수를 사용하지 않습니다.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(20,8): message : 'avg' 선언을 참조하십시오.
+C:\Users\User\Documents\GitHub\9end_week\ex-1\ex-1\소스.cpp(51,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
